@@ -11,7 +11,7 @@
 ...
 ```
 
-Пример([файл в папке files](https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files)):
+Пример([файл в папке files](files):
 ```
 Омлет
 3
